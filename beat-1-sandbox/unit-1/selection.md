@@ -14,14 +14,37 @@ wrong label is not graded.
 ## Selected issue
 
 **Issue link**
-
-[The individual Path Review issue page. A link to the repository or the issue list
-does not satisfy this field.]
-
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/73
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/72
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/63
 **Verdict output**
-
-[Your skill's live-mode output for this issue, pasted verbatim and ending with the
-fenced JSON verdict block. A summary does not satisfy this field.]
+I can't copy all, but Accept 3:
+❯ issue-select: grade these candidate first issues: h… 
+  backend work on the A.I. Math Tutor and robotics
+  projects, and the most genuine software-engineering
+  practice of the three. Two classmates (mikeng07,
+  DilanCaro) posted reproduction reports on Sept 22–23;
+  under the house rule that does not block you, and
+  the two cross-references on the issue are from
+  students' own coursework repos, not PRs here.
+  
+  2. #63 — README scorer test fixture too short for its
+  own word-count assertion 
+  Well-bounded and text-analysis adjacent (word_count,
+  word_count_category in the README scorer), so it
+  brushes your NLP interest, but the actual change is a
+  test fixture edit rather than production logic. One
+  classmate claim comment (AliceKindle2, Sept 22),
+  non-blocking.
+  
+  3. #73 — README and .env.example disagree about which
+  LLM API key to set
+  Cleanest issue on paper — zero comments, zero
+  references, freshest (opened Sept 16) — but it is a
+  docs-only reconciliation with no code, so it does the
+  least for the SWE/NLP/ML experience you're after.
+  
+  No rejections 1 new message (click) ↓ 
 
 **The verdict must record `accept` for this issue.** Choose an issue your own skill
 accepts. If your skill rejects every candidate you try, that is a signal about your
@@ -40,10 +63,11 @@ paste the output here, including the closing JSON block
 Quote source text directly in each field below. Paraphrase does not satisfy them.
 
 **Run history**
-
-[The agreement score of each run you did, in order. A single run is a complete answer if
-only one run occurred. **The last score in your list must match the agreement line in the
-`eval-run.txt` you committed** — that file is the record of your final run.]
+12/20
+8/20
+17/20
+13/20
+16/20
 
 **Issue analysis**
 
