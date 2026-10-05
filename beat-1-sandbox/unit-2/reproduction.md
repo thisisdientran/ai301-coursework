@@ -1,32 +1,16 @@
 # Unit 2 — Claim and Reproduce
 
 Path: `beat-1-sandbox/unit-2/reproduction.md`
-
-Record of your claim and reproduction on the issue you chose in Unit 1, and of the
-evaluation runs that produced `eval-run.txt`. This file is graded at the path above; a copy
-kept anywhere else in the repository is not read.
-
-Complete every labelled field below. Each is graded on its own; content placed under the wrong
-label is not graded.
-
 ---
 
 ## Your identity upstream
-
-**GitHub username**
-
-[Your GitHub username, exactly as it appears on your profile — no `@`, no profile URL. Your
-comments upstream are identified by this name.]
-
+thisisdientran
 ---
 
 ## Posted upstream
 
 **Claim comment**
-
-[Link to the comment where you claimed the issue. Use the comment's own permalink, not the
-issue page on its own. **Then paste the text of that comment underneath the link** — the
-pasted text is what this field is graded on, so copy across what you actually posted.]
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/73#issuecomment-5989864939
 
 **Reproduction comment**
 

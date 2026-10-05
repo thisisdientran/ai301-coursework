@@ -1,0 +1,1 @@
+I’m going to investigate this issue by reproducing it in the repository’s documented environment. I’ll follow the reported steps, compare the expected and actual behavior, and post a reproduction report with the evidence and any limitations.
